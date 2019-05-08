@@ -1,4 +1,4 @@
-FROM mxcins/backend:v1.0.0
+FROM debian
 
 SHELL ["/bin/bash", "-c"]
 
